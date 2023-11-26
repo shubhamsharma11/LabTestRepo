@@ -1,2 +1,3 @@
 First line in the file
 Added second line in the file from the remote in master branch
+Added third line on the file in remote master branch
